@@ -1,8 +1,3 @@
-//I pledge my Honor that I have not cheated, and will not cheat, on this test. Olivia Huegel
-
-//THIS DRIVER DISPLAYS THE POSITIONS OF THE BEST AND WORST GRADES, RATHER THAN
-//THE GRADES THEMSELVES
-
 import java.util.Scanner;
 public class LabExamDriver
 {
