@@ -1,4 +1,3 @@
-//I pledge my Honor that I have not cheated, and will not cheat, on this test. Olivia Huegel
 public class LabExam
 {
    //Array
